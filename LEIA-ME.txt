@@ -1,0 +1,24 @@
+FOCOENGLISH MOBILE V2.0
+
+Nova interface mobile-first e funcionamento offline.
+
+FUNÇÕES
+- 88 temas A1-C2 num mapa de aprendizagem livre.
+- Cronómetro por Listening ativo/passivo, Speaking, Reading, Writing, Grammar, Vocabulary, Pronunciation, filmes e outras atividades.
+- Temas pessoais com texto e resumo.
+- Banco de frases e perguntas.
+- Registo de filmes e séries, legendas, compreensão e tempo.
+- Importação segura de PDFs para o armazenamento interno da aplicação.
+- Metas, histórico, estatísticas e backup JSON.
+- Migração automática dos dados locais da V1.
+
+COMPILAÇÃO ONLINE
+1. Crie um repositório privado no GitHub.
+2. Carregue todo o conteúdo desta pasta, incluindo .github.
+3. Abra Actions > Gerar APK > Run workflow.
+4. Descarregue o artefacto FOCOENGLISH-V2-APK.
+5. Extraia e instale app-debug.apk no telefone.
+
+Não é necessário instalar programas no PC.
+NOTA SOBRE PDF
+O PDF selecionado é copiado para a área privada da aplicação. O original não é apagado. O backup JSON guarda o registo, mas não inclui o ficheiro PDF.
